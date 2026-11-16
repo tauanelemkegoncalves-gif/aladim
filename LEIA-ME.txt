@@ -1,0 +1,35 @@
+ALADIM TINTAS — SITE COMPLETO (7 PÁGINAS)
+
+1. Abra index.html no navegador. O catálogo possui os 11 produtos cadastrados.
+2. Coloque suas fotos na pasta img, usando EXATAMENTE os nomes listados abaixo.
+3. Não há painel administrativo, página Inspirações, preços ou pagamento online.
+4. O carrinho guarda os produtos neste navegador e envia a mensagem para o WhatsApp da Aladim Tintas: (41) 98498-3951. A cor é combinada pelo WhatsApp.
+5. Para publicar, envie TODOS os arquivos e a pasta img para sua hospedagem, mantendo a estrutura.
+6. O logotipo enviado já está na pasta img como logo.png.
+
+FOTOS DOS PRODUTOS:
+ - tinta-emb-18l.png — Tinta Emborrachada
+ - selamassa.png — Selamassa
+ - impermeab-lajes.png — Impermeabilizante Emborrachado para Lajes
+ - tinta-econ-18l.png — Tinta Econômica Interna
+ - cimento-queimado-5kg.png — Efeito Cimento Queimado
+ - imperpax-36l.png — Imperpax
+ - textura-acr-25kg.png — Textura Acrílica
+ - grafiato-25kg.png — Grafiato
+ - textura-proj-25kg.png — Textura Projetada
+ - massa-corrida-15kg.png — Massa Corrida
+
+CATÁLOGOS:
+ - cat-aladim.jpg
+ - cat-suvinil.jpg
+ - cat-coral.jpg
+
+SOBRE NÓS:
+ - sobre-cores.jpg
+ - sobre-tintas.jpg
+ - sobre-ambiente.jpg
+
+CONTATO:
+ - fachada-destaque.jpg
+
+ATENÇÃO: não altere a extensão (.jpg/.png) sem atualizar o nome no código. Fotos ausentes aparecem como espaços reservados. O formulário apenas prepara a mensagem: o cliente deve confirmar o envio no WhatsApp.
